@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultats de la conversion</title>
+</head>
+<body>
+    <h1>Résultats de la conversion</h1>
+       
+    {% for image_path in image_paths %}
+        <p>Image sauvegardée : {{ image_path }}</p>
+        <a href="{{ url_for('download', filename=image_path) }}" download>Télécharger</a>
+    {% endfor %}
+</body>
+</html>

@@ -1,0 +1,36 @@
+voici comment utiliser cette outils
+vous devez juste éxécuter outils pdf_to_jpeg (double_clic sur le fichier)
+Normalement une invite de commande s'ouvre, il faut patienter un peu
+et après une page s'ouvre (Chrome, Microsoft Edge, Firefox), tout depends de 
+ce qui est installé sur l'ordi.
+
+
+###############################################################################################################################################
+
+	EN AUCUN CAS IL FAUT FERMER L'INVITE DE COMMANDE
+	CAR LE PROGRAMME S'ARRETE.
+
+	LORQUE QUE VOUS AVEZ FINI VOUS DEVEZ FERMER LE 
+	NAVIGATEUR ET APRES VOUS POUVEZ FERMER L'INVITE
+	DE COMMANDE
+
+	!!!!! PYTHON N'EST PAS NECESSAIRE A L'UTILISATION DE CE PROGRAMME !!!!!
+
+	
+	
+	DANS CAS OU UN PROBLEME ARRIVERAIT JE SUIS JOIGNABLE A CET ADRESSE MAIL: matteolap34400@gmail.com
+
+###############################################################################################################################################
+
+Normalement il y a aucun problème majeur donc pas besoin de s'inquiéter 
+mais je vous note certains des problèmes que vous pouvez obtenir.
+
+Problèmes : 
+
+	si le fichier n'est pas un pdf alors le programme ne fonctionnera pas
+	si le fichier ne contient pas d'image alors le programme ne fonctionnera pas
+	si vous ne pouvez pas télécharger vos images vous pouvez vous rendre dans le dossier
+	(vous partez de la ou vous avez éxécuter outils pdf_to_jpeg) pdf_to_jpeg/templates/static/
+	dans ce dossier se trouve unne copie des fichiers pdf ainsi que vos images  
+	
+	

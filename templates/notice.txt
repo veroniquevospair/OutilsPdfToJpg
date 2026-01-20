@@ -1,0 +1,13 @@
+Voici comment utiliser la conversion d'image en PDF en JPG :
+
+D'abord, vous avez besoin d'une console Python (par exemple, Thonny, Spyder, etc.).
+
+Ensuite, vous ouvrez cette console et vous tapez 'app.py'.
+
+Une adresse de ce type apparaîtra : http://127.0.0.1:5000/.
+
+Copiez-la et collez-la dans la barre de recherche de votre navigateur.
+
+Vous arriverez sur la page. Maintenant, prenez votre fichier PDF et déposez-le dans le dossier 'static' qui se trouve dans 'templates'.
+
+Retournez sur la page web, sélectionnez le fichier PDF, puis cliquez sur 'Convertir'. Si vous allez dans le dossier 'static', votre image apparaîtra."
